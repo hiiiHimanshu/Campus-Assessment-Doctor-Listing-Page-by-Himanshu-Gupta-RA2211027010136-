@@ -1,0 +1,79 @@
+# Doctor Listing Application
+
+A modern React application for finding and filtering doctors, built with React, TypeScript, and Tailwind CSS.
+
+## Features
+
+- Search doctors by name with autocomplete
+- Filter by consultation type (Video/In-Clinic)
+- Filter by medical specialties
+- Sort by fees or experience
+- Responsive design
+- URL-based filtering and sorting
+- Fallback to mock data if API is unavailable
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js 18 or higher
+- npm 9 or higher
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone <repository-url>
+```
+
+2. Navigate to the project directory:
+```bash
+cd doctor-listing
+```
+
+3. Install dependencies:
+```bash
+npm install
+```
+
+### Development
+
+To start the development server:
+
+```bash
+npm run dev
+```
+
+This will start the development server at `http://localhost:5173`
+
+### Building for Production
+
+To create a production build:
+
+```bash
+npm run build
+```
+
+To preview the production build:
+
+```bash
+npm run preview
+```
+
+## Project Structure
+
+- `/src` - Source code
+  - `/components` - React components
+  - `/data` - Mock data and data utilities
+  - `/types` - TypeScript type definitions
+  - `/utils` - Utility functions
+  - `App.tsx` - Main application component
+  - `main.tsx` - Application entry point
+
+## Tech Stack
+
+- React 18
+- TypeScript
+- Tailwind CSS
+- Vite
+- Lucide React (for icons)
