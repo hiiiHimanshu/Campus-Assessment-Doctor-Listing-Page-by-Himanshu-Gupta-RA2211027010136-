@@ -23,7 +23,7 @@ A modern React application for finding and filtering doctors, built with React, 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/hiiiHimanshu/Campus-Assessment-Doctor-Listing-Page-by-Himanshu-Gupta-RA2211027010136-.git
 ```
 
 2. Navigate to the project directory:
