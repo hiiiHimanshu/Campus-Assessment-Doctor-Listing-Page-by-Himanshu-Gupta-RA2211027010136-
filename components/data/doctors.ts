@@ -1,6 +1,6 @@
 import { Doctor } from '../types';
 
-// Keeping the mock data as fallback
+
 export const mockDoctors: Doctor[] = [
   {
     id: 1,
@@ -124,7 +124,7 @@ export const mockDoctors: Doctor[] = [
   }
 ];
 
-// Helper function to get all unique specialties from the doctor data
+
 export const getAllSpecialties = (doctors: Doctor[]): string[] => {
   const specialtiesSet = new Set<string>();
   
