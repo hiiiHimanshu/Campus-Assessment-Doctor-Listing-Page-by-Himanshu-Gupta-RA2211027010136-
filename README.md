@@ -83,4 +83,11 @@ npm run preview
 
 <img width="1710" alt="Screenshot 2025-04-25 at 5 38 48 PM" src="https://github.com/user-attachments/assets/89e48cc7-e4de-4eac-8408-ff476cc4f933" />
 
+<img width="1710" alt="Screenshot 2025-04-25 at 5 38 56 PM" src="https://github.com/user-attachments/assets/8415519b-5e23-4312-8666-1104fe98820e" />
+<img width="1710" alt="Screenshot 2025-04-25 at 5 39 15 PM" src="https://github.com/user-attachments/assets/b233e09c-33bf-443d-9667-36db02c01308" />
+<img width="1710" alt="Screenshot 2025-04-25 at 5 39 21 PM" src="https://github.com/user-attachments/assets/7bad19ff-2daa-4cae-a158-88bb1db136dd" />
+
+
+
+
 
